@@ -1,0 +1,87 @@
+body {
+  background: url('images/marvel.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
+
+.gallery img{
+        width: 100%;
+}
+ #menu{
+      width:100%;
+      height:40px;
+      padding-top: 12px;
+}
+#menu a{
+      color:black;
+      font-family: arial;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+#menu a:hover{
+       color: #bf9106;
+}
+p{
+	 color: #ffffff;
+	 font-family: serif;
+	 font-style: italic;
+	 font-size: 25px;
+
+	 
+ }
+  h1{
+	 color: #d4cecb;
+	 font-size: 30px;
+	 background-color: #949494;
+	 font-style: italic;
+ }
+ h2{
+	 color: #a8aded;
+	 font-size: 30px;
+	 background-color: #010433;
+	 font-style: italic;
+ }
+ h3{
+	 color: #55f27a;
+	 font-size: 30px;
+	 background-color: #01330c;
+	 font-style: italic;
+ }
+ h4{
+	 color: #eb1e33;
+	 font-size: 30px;
+	 background-color: #5c0480;
+	 font-style: italic;
+ }
+ h5{
+	 color: #2884e0;
+	 font-size: 30px;
+	 background-color: #737878;
+	 font-style: italic;
+ }
+ h6{
+	 color: #c29204;
+	 font-size: 30px;
+	 background-color: #737878;
+	 font-style: italic;
+ }
+ h{
+	 font-size: 30px;
+	 color: red;
+	 background-color:#ffffff;
+ }
+ #paragraph p{
+	 color: black;
+ }
+ #paragraph1 p{
+	 color: black;
+ }
+ h7{
+	 font-size: 25px;
+	 font-family: Fantasy;
+ }
